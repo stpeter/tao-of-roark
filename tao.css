@@ -58,17 +58,16 @@ h6 { font-size: 1em;      line-height: 1em; }
 /* Typefaces */
 
 @font-face {
-  font-family: Cardo;
-  src: url('Cardo104s.ttf') format('truetype');
+  font-family: Cardo, Bodoni, Bembo, Garamond, Georgia, Times, serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Bodoni, Cardo, Bembo, Garamond, Georgia, Times, serif;
+  font-family: Cardo, Bodoni, Bembo, Garamond, Georgia, Times, serif;
   font-weight: normal;
 }
 
 body {
-  font-family: Cardo, Bembo, Garamond, Georgia, Times, serif;
+  font-family: Cardo, Bodoni, Bembo, Garamond, Georgia, Times, serif;
   font-size: 90%;
   font-weight: 300;
   line-height: 1.625;
