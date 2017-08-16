@@ -28,6 +28,10 @@ li {
   padding: 0;
 }
 
+img {
+  padding: 3em;
+}
+
 /* Typography */
 
 /*  6pt = 0.375em
